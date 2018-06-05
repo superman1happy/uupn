@@ -1,0 +1,14 @@
+nav{
+    display: inline-block;
+}
+nav>a{
+    left: 50%;
+    margin-left: -55px;
+    width: 100px;
+    height: 16px;
+    font-style: #f06060;
+    border: 2px solid #f06060;
+    padding: 1px 4px;
+    line-height: 16px;
+
+}

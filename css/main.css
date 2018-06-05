@@ -1,0 +1,41 @@
+
+.main{
+    box-sizing: border-box;
+    width: 100%;
+
+    padding: 60px 5%;
+    font-size: 18px;
+
+}
+.tips1{
+    box-sizing: border-box;
+    height: 60px;
+
+    border: 2px solid red;
+    margin-top: 20px;
+
+}
+.tips2{
+    box-sizing: border-box;
+    width: 40%;
+    height: 56px;
+
+    float: left;
+    margin-left: 30%;
+    text-align: center;
+    line-height: 56px;
+
+}
+.tips3{
+    box-sizing: border-box;
+    width: 10%;
+    height: 56px;
+
+    float: right;
+    text-align: center;
+    line-height: 56px;
+
+}
+.main>a{
+    color: #555;
+}
