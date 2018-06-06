@@ -1,8 +1,29 @@
 .Article{
-    padding: 70px 20px;
-    font-size: 14px;
+    box-sizing: border-box;
     width: 100%;
+    padding:60px 5%;
+    font-size: 18px;
+
 }
-p{
-    margin: 8px;
+.tips1{
+    box-sizing: border-box;
+    height: 60px;
+
+    border-bottom: 1px solid #f06060;
+
+}
+.tips2{
+    box-sizing: border-box;
+    width: 80%;
+    height: 60px;
+
+    float: left;
+    margin-left: 10%;
+    text-align: center;
+    line-height: 60px;
+
+}
+
+.main>a{
+    color: #555;
 }
