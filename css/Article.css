@@ -24,6 +24,18 @@
 
 }
 
+.main{
+    width: 100%;
+}
 .main>a{
     color: #555;
+}
+.main>img{
+max-width:100%;
+    padding: 60px 0;
+}
+.bikan{
+    padding: 60px 7%;
+    font-size: 16px;
+
 }

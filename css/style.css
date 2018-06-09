@@ -105,7 +105,7 @@ ul#userMenu li a::after {
 }
 #sideMenuContainer > a {
   display: block;
-  padding: 10px 10px;
+  padding: 20px 10px;
 }
 #sideMenuContainer > a::after {
   content: attr(title);
